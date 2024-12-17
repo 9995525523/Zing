@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zing Voice - VoIP Telecommunications</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+        header {
+            background-color: #004080;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            background-color: #0056b3;
+            padding: 0.5rem 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        section {
+            padding: 2rem;
+            text-align: center;
+        }
+        footer {
+            background-color: #004080;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        button {
+            background-color: #0056b3;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 10px;
+            font-size: 1rem;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #003366;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Zing Voice</h1>
+        <p>Reliable VoIP Telecommunications Services</p>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About Us</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    
+    <section id="home">
+        <h2>Welcome to Zing Voice</h2>
+        <p>Providing seamless VoIP telecommunications solutions, including CLI and Non-CLI call supply.</p>
+        <button>Contact Us</button>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Zing Voice is dedicated to delivering top-tier VoIP services to businesses worldwide. We ensure quality and reliability in every call.</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul style="list-style: none; padding: 0;">
+            <li><strong>VoIP Telecommunications</strong> - Reliable and scalable solutions.</li>
+            <li><strong>CLI Call Supply</strong> - Transparent caller ID services.</li>
+            <li><strong>Non-CLI Call Supply</strong> - Flexible international solutions.</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email us at: <a href="mailto:blueberry999.bng@gmail.com">blueberry999.bng@gmail.com</a></p>
+        <p>Stay tuned for our professional company email!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Zing Voice. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
